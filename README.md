@@ -6,5 +6,5 @@
 
 - 🔭 I’m currently working on ReacType, a full-stack React prototyping tool
 - 👯 I’m looking to collaborate on any open source product
-- 🌱 I’m into fitness and healthy eating
+- 🌱 I’m into HIIT, running, weightlifting, OrangeTheory, and healthy eating
 - 📫 Reach me at: shirley.liu64@gmail.com
